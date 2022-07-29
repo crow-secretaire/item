@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "top": "../../components/top/top",
+    "gequ": "../../components/gequ/gequ"
+  }
+}

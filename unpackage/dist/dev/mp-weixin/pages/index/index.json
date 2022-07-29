@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "小众听歌",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "search": "../../components/search/search"
+  }
+}

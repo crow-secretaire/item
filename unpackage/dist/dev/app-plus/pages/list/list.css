@@ -1,0 +1,127 @@
+
+.content[data-v-bd67cea0] {
+		width: 100%;
+		font-size: 1rem;
+		padding: 1.875rem 0 1.5625rem 0;
+		text-align: center;
+		position: relative;
+}
+.dianj[data-v-bd67cea0] {
+		position: absolute;
+		width: 5.625rem;
+		height: 2.1875rem;
+		background-color: rgba(255, 255, 255, 0.5);
+		border: 1px solid #eaeaea;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		top: 1.5625rem;
+		left: 0.9375rem;
+		border-radius: 30px;
+}
+.dianj uni-text[data-v-bd67cea0] {
+		padding: 0 0.625rem;
+}
+.yc[data-v-bd67cea0] {
+		display: none;
+}
+.tee[data-v-bd67cea0]{
+		color: #fff;
+}
+.tees[data-v-bd67cea0]{
+		color: #000000;
+}
+
+
+.geq[data-v-6cd147c4] {
+		font-size: 14px;
+		padding: 0.625rem;
+}
+.geq_index[data-v-6cd147c4] {
+		height: 3.125rem;
+		color: #6d7b7c;
+		width: 10%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+.geq_nmae[data-v-6cd147c4] {
+		width: 90%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+}
+.geq_nmae_text[data-v-6cd147c4] {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+}
+.geq_nmae_text uni-image[data-v-6cd147c4] {
+		width: 1.25rem;
+		height: 1.25rem;
+		vertical-align: top;
+		margin-left: 0.3125rem;
+}
+.geq_log[data-v-6cd147c4] {
+		font-size: 20px;
+		color: #aaffff;
+}
+.wxh[data-v-6cd147c4]{
+		width: 100%;
+		padding: 0 0.625rem;
+}
+.wxh_Tex[data-v-6cd147c4]{
+		font-size: 1.40625rem;
+		color: #fff;
+}
+.wxh_con[data-v-6cd147c4]{
+		display: flex;
+		width: 100%;
+}
+.wxh_img[data-v-6cd147c4]{
+		width: 20%;
+}
+.wxh_img uni-image[data-v-6cd147c4]{
+		width: 100%;
+		height: 100%;
+}
+.wxh_flex[data-v-6cd147c4]{
+		width: 70%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+}
+
+
+.colr[data-v-7d5e07c6] {
+		width: 100%;
+		background-image: linear-gradient(#d2ecee, #c2ffff, #8cf4ff);
+}
+.yans[data-v-7d5e07c6] {
+		width: 90%;
+		margin: 0 auto;
+		margin-top: 6.25rem;
+		background-color: #ffffff;
+		border-radius: 20px 20px 0 0;
+		padding: 1.875rem 0.625rem;
+		position: relative;
+}
+.yans_img[data-v-7d5e07c6] {
+		width: 6.25rem;
+		height: 6.25rem;
+		border-radius: 50%;
+		overflow: hidden;
+		position: absolute;
+		top: 0;
+		left: 50%;
+		transform: translate(-50%, -60%);
+}
+.yans_img uni-image[data-v-7d5e07c6] {
+		width: 100%;
+		height: 100%;
+}
+
+

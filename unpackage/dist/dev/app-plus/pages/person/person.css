@@ -1,0 +1,39 @@
+
+.colr[data-v-390a77b4] {
+		color: #ff557f;
+}
+.fenle_text_1[data-v-390a77b4],
+	.fenle_text_2[data-v-390a77b4] {
+		width: 100%;
+		padding: 2% 5%;
+}
+.fenle_text_1 uni-text[data-v-390a77b4],
+	.fenle_text_2 uni-text[data-v-390a77b4] {
+		display: inline-block;
+		width: 15%;
+		font-size: 0.75rem;
+}
+.waib[data-v-390a77b4]{
+		padding: 0.9375rem 0.9375rem 0 0.9375rem;
+}
+waib[data-v-390a77b4]:hover{
+		background-color: #eee;
+}
+.tubiao[data-v-390a77b4] {
+		width: 3.125rem;
+		height: 3.125rem;
+		border-radius: 50px;
+		overflow: hidden;
+		display: flex;
+		align-items: center;
+}
+.img[data-v-390a77b4] {
+		width: 100%;
+		height: 100%;
+}
+.text[data-v-390a77b4] {
+		margin-left: 0.9375rem;
+		display: flex;
+		align-items: center;
+		font-size: 0.8125rem;
+}

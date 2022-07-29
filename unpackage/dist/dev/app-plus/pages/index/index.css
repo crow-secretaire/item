@@ -1,0 +1,71 @@
+
+.sr[data-v-eb1fb978]{
+	padding: 0.625rem 0.625rem;
+	position: relative;
+}
+.sr uni-input[data-v-eb1fb978]{
+	padding: 0.46875rem 0.9375rem 0.46875rem 2.5rem;
+	background-color: #eee;
+	border-radius: 20px;
+	font-size: 0.875rem;
+}
+.mage[data-v-eb1fb978]{
+	width: 1.09375rem;
+	height: 1.09375rem;
+	position: absolute;
+	top: 1.25rem;
+	left: 1.40625rem;
+}
+.mage uni-image[data-v-eb1fb978]{
+	width: 100%;
+	height: 100%;
+}
+
+
+.img[data-v-57280228] {
+		width: 100%;
+		height: 100%;
+}
+.conu[data-v-57280228] {
+		align-items: center;
+		height: 6.25rem;
+		padding-top: 0.625rem;
+}
+.flex_1[data-v-57280228] {
+		width: 40%;
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: relative;
+}
+.flex_1 uni-image[data-v-57280228] {
+		width: 6.25rem;
+		height: 100%;
+		border-radius: 20px
+}
+.flex_2[data-v-57280228] {
+		width: 40%;
+		height: 5.625rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+}
+.flex_2 uni-view[data-v-57280228] {
+		font-size: 0.75rem;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap
+}
+.flex_1_text[data-v-57280228] {
+		position: absolute;
+		bottom: 0.3125rem;
+		color: #fff;
+		font-size: 0.75rem;
+}
+.sw[data-v-57280228] {
+		border-radius: 10px;
+		overflow: hidden;
+		width: 95%;
+		margin: 0 auto;
+}

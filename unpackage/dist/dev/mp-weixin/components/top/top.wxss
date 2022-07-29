@@ -1,0 +1,33 @@
+
+.content.data-v-bd67cea0 {
+		width: 100%;
+		font-size: 32rpx;
+		padding: 60rpx 0 50rpx 0;
+		text-align: center;
+		position: relative;
+}
+.dianj.data-v-bd67cea0 {
+		position: absolute;
+		width: 180rpx;
+		height: 70rpx;
+		background-color: rgba(255, 255, 255, 0.5);
+		border: 1px solid #eaeaea;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		top: 50rpx;
+		left: 30rpx;
+		border-radius: 30px;
+}
+.dianj text.data-v-bd67cea0 {
+		padding: 0 20rpx;
+}
+.yc.data-v-bd67cea0 {
+		display: none;
+}
+.tee.data-v-bd67cea0{
+		color: #fff;
+}
+.tees.data-v-bd67cea0{
+		color: #000000;
+}

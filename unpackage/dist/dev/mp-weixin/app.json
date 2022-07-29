@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/use/use",
+    "pages/list/list",
+    "pages/name/name",
+    "pages/person/person",
+    "pages/elenco/elenco",
+    "pages/gioca/gioca",
+    "pages/ss/ss"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#515151",
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "text": "页面",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/首页_fill(1).png",
+        "selectedIconPath": "static/首页_fill.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "iconPath": "static/歌手(1).png",
+        "selectedIconPath": "static/歌手.png",
+        "text": "歌手"
+      },
+      {
+        "pagePath": "pages/use/use",
+        "iconPath": "static/随机用户(2).png",
+        "selectedIconPath": "static/随机用户.png",
+        "text": "页面"
+      }
+    ]
+  },
+  "UIBackgroundModes": [
+    "audio"
+  ],
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

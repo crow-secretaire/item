@@ -1,0 +1,86 @@
+
+.baji.data-v-bac80b74 {
+		z-index: 0;
+		width: 100%;
+		height: 100vh;
+		position: absolute;
+		top: 0;
+		left: 0;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center 0;
+		filter: blur(10rpx);
+}
+.wenzi.data-v-bac80b74 {
+		z-index: 100;
+		padding: 40rpx;
+		font-size: 24rpx;
+		color: #fff;
+		display: flex;
+		flex-direction: column;
+}
+.img.data-v-bac80b74 {
+		width: 250rpx;
+		height: 250rpx;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 20rpx;
+		overflow: hidden;
+		position: relative;
+}
+.img image.data-v-bac80b74 {
+		width: 100%;
+		height: 100%;
+}
+.img_text.data-v-bac80b74{
+		z-index: 10000;
+		position: absolute;
+		top: 10rpx;
+		right: 10rpx;
+}
+.wenzi_text.data-v-bac80b74 {
+		z-index: 100;
+		flex: 1;
+		margin-left: 20rpx;
+}
+.text_top.data-v-bac80b74 {
+		font-size: 36rpx;
+}
+.text_content.data-v-bac80b74 {
+		padding: 20rpx 0;
+		color: #eaeaea;
+}
+.text_buttom.data-v-bac80b74 {
+		color: #eaeaea;
+}
+.song.data-v-bac80b74 {
+		width: 100%;
+}
+.song_consten.data-v-bac80b74 {
+		margin: 0 auto;
+		width: 100%;
+		box-sizing: border-box;
+		padding: 30rpx 30rpx;
+		background: #fff;
+		z-index: 100;
+		border-radius: 20rpx 20rpx 0 0;
+}
+.song_top image.data-v-bac80b74 {
+		width: 50rpx;
+		height: 50rpx;
+		vertical-align: top;
+		margin-right: 20rpx;
+		font-size: 30rpx;
+}
+.song_top_text.data-v-bac80b74{
+		font-size: 28rpx;
+		color: #939393;
+}
+.buttonme.data-v-bac80b74{
+		border-radius: 30px;
+		background-color: rgba(236, 236, 236, 0.5);
+		color: #fff;
+		margin-top: 30rpx;
+		font-size: 28rpx;
+}

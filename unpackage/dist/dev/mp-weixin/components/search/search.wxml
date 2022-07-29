@@ -1,0 +1,1 @@
+<view class="data-v-eb1fb978"><view class="sr data-v-eb1fb978"><view class="mage data-v-eb1fb978"><image class="data-v-eb1fb978" src="/static/放大镜.png" mode=""></image></view><input class="data-v-eb1fb978" type="text" placeholder="搜索歌曲" bindtap="{{a}}"></input></view></view>
